@@ -60,10 +60,11 @@ Predict whether a customer will subscribe to a term deposit based on demographic
 
 
 # About Me
-Maheswari Chellapandian
+**Maheswari Chellapandian**
 MSc AI & Data Science Graduate | Aspiring Data Scientist | Open to Opportunities
 
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/maheswari-chellapandian-1a0911225)  
+[Email](mailto:maheswarichellapandian.ds@gmail.com)  
+
 
 
